@@ -1,0 +1,16 @@
+table,th,td,tr{
+    border: 1px solid black;
+}
+th,td{
+    text-align: center;
+
+}
+th{
+    background-color: aqua;
+}
+.no{
+    background-color: yellowgreen;
+}
+.sp{
+    background-color: green;
+}
